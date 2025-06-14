@@ -6,7 +6,7 @@ The task focused on exploring a dataset visually and statistically to uncover in
 
 ## Tools Used
 
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib)
 
 ## Objectives
 
