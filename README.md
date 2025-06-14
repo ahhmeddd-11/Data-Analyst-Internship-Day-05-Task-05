@@ -1,27 +1,28 @@
-# Task 5: Exploratory Data Analysis
+# Task 5 - Exploratory Data Analysis (EDA)
 
-## Objective
-Perform Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries.
+## Overview
 
----
+The task focused on exploring a dataset visually and statistically to uncover insights, relationships, and patterns.
 
-## Dataset Used
-- **Name:** Titanic
+## Tools Used
 
----
+- Python (Pandas, Matplotlib, Seaborn)
 
-## Tools & Technologies
-- Python
+## Objectives
+
+- Understand data distribution
+- Visualize patterns and trends
+- Detect outliers and correlations
+
+## Approach
+
+Using visualizations like histograms, heatmaps, and scatterplots, the dataset was explored for trends and anomalies. Insights were noted alongside visuals.
+
+## Deliverables
+
 - Jupyter Notebook
+- PDF Report with findings
 
----
+## Author
 
-## Analysis:
-- Dataset overview and structure
-- Missing value detection
-- Univariate analysis
-- Bivariate analysis
-- Correlation analysis using a heatmap
-- Multivariate visualization using pair plots
-
----
+Syed Ahmed Ali
